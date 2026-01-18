@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <title>ডাউনলোড লিংক সেন্টার</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>📥 ডাউনলোড লিংক সেন্টার</h1>
+        <p>সোশ্যাল মিডিয়া ও জরুরি অ্যাপস</p>
+    </header>
+
+    <section class="container">
+
+        <div class="card">
+            <h2>🎬 ভিডিও ডাউনলোড</h2>
+            <a href="https://yt1s.com" target="_blank">YouTube Downloader</a>
+            <a href="https://fdown.net" target="_blank">Facebook Downloader</a>
+            <a href="https://snapinsta.app" target="_blank">Instagram Downloader</a>
+            <a href="https://ssstwitter.com" target="_blank">Twitter Downloader</a>
+            <a href="https://ssstik.io" target="_blank">TikTok Downloader</a>
+        </div>
+
+        <div class="card">
+            <h2>🛠 জরুরি অ্যাপস</h2>
+            <a href="https://www.google.com/chrome/" target="_blank">Google Chrome</a>
+            <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a>
+            <a href="https://play.google.com/store/apps/details?id=com.google.android.youtube" target="_blank">YouTube App</a>
+            <a href="https://www.videolan.org/vlc/" target="_blank">VLC Media Player</a>
+        </div>
+
+    </section>
+
+    <footer>
+        <p>© 2026 | Created by Hridoy Jafor</p>
+    </footer>
+
+</body>
+</html>
